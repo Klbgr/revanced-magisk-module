@@ -15,6 +15,7 @@ arch = "universal"
 build-mode = "module"
 version = "auto"
 included-patches = "materialyou"
+excluded-patches = "custom-branding-icon-revancify-blue custom-branding-youtube-name"
 
 [Music-Extended]
 app-name = "Music"
