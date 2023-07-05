@@ -1,4 +1,5 @@
 Music: 6.08.50  
+YouTube-Extended: 18.24.37  
 Tiktok: 30.3.2  
 Twitter: 9.71.0-release.0  
 Reddit: 2023.26.0  
