@@ -24,18 +24,15 @@ version = "auto"
 
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-arch = "arm64-v8a"
 build-mode = "module"
 version = "auto"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-arch = "arm64-v8a"
 build-mode = "module"
 version = "auto"
 
 [Reddit]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
-arch = "arm64-v8a"
 build-mode = "module"
 version = "auto"
