@@ -36,6 +36,7 @@ version = "auto"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 build-mode = "module"
 version = "auto"
+excluded-patches = "hide-views-stats"
 
 [Reddit]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
