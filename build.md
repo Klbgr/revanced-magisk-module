@@ -1,6 +1,6 @@
+YouTube-Extended: 18.25.40  
 Music-Extended (arm-v7a): 6.10.51  
 Music-Extended (arm64-v8a): 6.10.51  
-YouTube-Extended: 18.25.40  
 Twitter: 9.71.0-release.0  
 Tiktok: 30.3.4  
 Reddit-Extended: 2023.16.1  
