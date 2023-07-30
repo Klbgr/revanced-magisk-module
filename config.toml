@@ -25,7 +25,7 @@ rv-brand = "ReVanced Extended"
 build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 apkmirror-arch = "both"
-excluded-patches = "custom-branding-icon-revancify-blue custom-package-name microg-support"
+excluded-patches = "custom-branding-icon-revancify-blue custom-package-name microg-support custom-branding-music-name"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
