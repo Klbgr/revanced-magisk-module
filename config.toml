@@ -28,13 +28,13 @@ included-patches = "materialyou"
 excluded-patches = "custom-branding-youtube-name custom-branding-icon-revancify-blue custom-package-name"
 
 [Twitter]
-uptodown-dlurl = "https://twitter.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
 build-mode = "both"
 
 [TikTok]
-uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 build-mode = "both"
 
 [Reddit]
-uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 build-mode = "both"
