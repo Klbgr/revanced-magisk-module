@@ -1,4 +1,4 @@
-parallel-jobs = 3
+parallel-jobs = 1
 logging-to-file = true        # enables logging of every patch process to a seperate file
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 
@@ -33,7 +33,7 @@ build-mode = "both"
 
 [TikTok]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-build-mode = "both"
+build-mode = "module"
 
 [Reddit]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
