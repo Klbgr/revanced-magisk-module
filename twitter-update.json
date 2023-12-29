@@ -1,6 +1,6 @@
 {
-  "version": "v10.21.0-release.0",
-  "versionCode": 63,
-  "zipUrl": "https://github.com/Klbgr/revanced-magisk-module/releases/download/63/twitter-revanced-magisk-v10.21.0-release.0-all.zip",
+  "version": "v10.21.1-release.0",
+  "versionCode": 66,
+  "zipUrl": "https://github.com/Klbgr/revanced-magisk-module/releases/download/66/twitter-revanced-magisk-v10.21.1-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/Klbgr/revanced-magisk-module/update/build.md"
 }
