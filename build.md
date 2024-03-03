@@ -1,7 +1,7 @@
+YouTube-Extended: 19.02.39  
 Music-Extended (arm64-v8a): 6.33.52  
 Music-Extended (arm-v7a): 6.33.52  
-YouTube-Extended: 19.02.39  
-Twitter: 10.29.0-release.0  
+Twitter: 10.30.0-release.0  
 TikTok: 32.5.3  
 Reddit: 2024.08.0  
 
@@ -17,6 +17,6 @@ Patches: inotia00/revanced-patches-2.220.1.jar
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.220.1)
 
 CLI: j-hc/revanced-cli-4.3.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.3.2.apk  
-Patches: ReVanced/revanced-patches-4.2.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.2.0)  
+Integrations: ReVanced/revanced-integrations-1.4.0.apk  
+Patches: ReVanced/revanced-patches-4.3.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.3.0)  
