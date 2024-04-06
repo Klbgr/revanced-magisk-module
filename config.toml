@@ -7,10 +7,10 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube]
 build-mode = "both"
-arch = "both"
 excluded-patches = ""
 included-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+version = "auto"
 
 [Music-Extended]
 app-name = "Music"
@@ -19,7 +19,7 @@ integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-arch = "both"
+# arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music'"
 
@@ -30,7 +30,7 @@ integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-arch = "both"
+# arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 included-patches = "'MaterialYou'"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
@@ -38,14 +38,11 @@ excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube
 [Twitter]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
 build-mode = "both"
-arch = "both"
 
 [TikTok]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 build-mode = "both"
-arch = "both"
 
 [Reddit]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 build-mode = "both"
-arch = "both"
