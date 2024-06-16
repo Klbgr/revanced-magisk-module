@@ -29,7 +29,7 @@ build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 arch = "both"
-excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music'"
+excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music'"
 
 [YouTube-Extended]
 app-name = "YouTube"
@@ -41,7 +41,7 @@ build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 included-patches = "'MaterialYou'"
-excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
+excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube'"
 
 [Twitter]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
@@ -64,4 +64,4 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
-excluded-patches = "'Change package name' 'Custom branding name Reddit'"
+excluded-patches = "'Change package name' 'Custom branding name for Reddit'"
