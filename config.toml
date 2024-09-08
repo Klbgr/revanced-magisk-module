@@ -50,7 +50,7 @@ build-mode = "both"
 [TikTok]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 build-mode = "both"
-included-patches = "'SIM spoof'"
+# included-patches = "'SIM spoof'"
 
 [Reddit]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
