@@ -18,25 +18,25 @@ build-mode = "both"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
-[Music-Extended]
-app-name = "Music"
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-arch = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music'"
+# [Music-Extended]
+# app-name = "Music"
+# patches-source = "inotia00/revanced-patches"
+# cli-source = "inotia00/revanced-cli"
+# rv-brand = "ReVanced Extended"
+# build-mode = "both"
+# arch = "both"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+# excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music'"
 
-[YouTube-Extended]
-app-name = "YouTube"
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-included-patches = "'MaterialYou'"
-excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube'"
+# [YouTube-Extended]
+# app-name = "YouTube"
+# patches-source = "inotia00/revanced-patches"
+# cli-source = "inotia00/revanced-cli"
+# rv-brand = "ReVanced Extended"
+# build-mode = "both"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+# included-patches = "'MaterialYou'"
+# excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube'"
 
 [Twitter]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
@@ -47,14 +47,14 @@ dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 build-mode = "both"
 
-[Reddit-Extended]
-app-name = "Reddit"
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
-excluded-patches = "'Change package name' 'Custom branding name for Reddit'"
+# [Reddit-Extended]
+# app-name = "Reddit"
+# patches-source = "inotia00/revanced-patches"
+# cli-source = "inotia00/revanced-cli"
+# rv-brand = "ReVanced Extended"
+# build-mode = "both"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
+# excluded-patches = "'Change package name' 'Custom branding name for Reddit'"
 
 [TikTok]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
